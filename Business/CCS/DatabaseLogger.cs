@@ -2,7 +2,7 @@
 
 namespace Business.CCS
 {
-    public class DatabasaLogger : ILogger
+    public class DatabaseLogger : ILogger
     {
         public void Log()
         {
